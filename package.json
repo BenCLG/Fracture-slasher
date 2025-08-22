@@ -1,0 +1,21 @@
+{
+  "name": "fracture-slasher",
+  "version": "1.0.0",
+  "description": "A roguelike action game with steampunk-alien aesthetics",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "vite preview"
+  },
+  "keywords": ["phaser", "game", "roguelike", "action"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "phaser": "^3.70.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
